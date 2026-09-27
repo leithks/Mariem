@@ -1,0 +1,6 @@
+{
+  "name": "EduTrack - Tutor Calendar & Earnings Monitor",
+  "description": "A specialized tutor calendar to manage student schedules, track attendance, and monitor private lesson earnings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
